@@ -1,12 +1,13 @@
 # Face-Recognition-in-Images
 
-# It detects faces from the image and recognizes the label(name) of the person. The rule is simple more the images in training more the accuracy in the testing.In training process we give more than 50 images to the recognizer so it can learn the different faces of the same person. 
+# It detects faces from the image and recognizes the label(name) of the person. The rule is simple more the images in training more the accuracy in the testing.In training process we give more than 50 images to the recognizer so it can learn the different faces of the same person. For face detection we use haarcascade_frontal_face.xml file to train haarcascade classifier.
 
 # Dataset:
 More than 50 images of each person.
 
 # Classifier:
 1. LBPH Face Recognizer
+2. Haarcascade classifier
 
 # Pre-Requisits:
 Must have Python3 installed.
