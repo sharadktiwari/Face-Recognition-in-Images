@@ -20,6 +20,7 @@ Must have OS module installed.
 2. Make your training and testing data.
 3. Now first run the faceRecognition.py then run tester.py
 4. After training you can test you model from testing data.
+5. While running the program for second or third time, we have to load the trainingData.yml(results of previous training) as a training data.
 
 # Contributors:
 > Sharad Kumar Tiwari
